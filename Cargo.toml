@@ -36,6 +36,7 @@ members = [
 	"crates/nu_plugin_query",
 	"crates/nu_plugin_custom_values",
 	"crates/nu-utils",
+	"crates/nu-polars",
 ]
 
 [dependencies]
